@@ -245,10 +245,10 @@ html::-webkit-scrollbar-thumb {
 
 .login-form-container form .box {
 	width: 100%;
-	margin: .7rem 0;
+	margin: .6rem 0;
 	font-size: 1.6rem;
 	border: var(--border);
-	border-radius: .5rem;
+	border-radius: .10rem;
 	padding: 1rem 1.2rem;
 	color: var(--black);
 	text-transform: none;
@@ -466,7 +466,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .newsletter {
-	background: url(book-cup-coffee.jpg) no-repeat;
+	background: url(сурет01.jpg) no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
